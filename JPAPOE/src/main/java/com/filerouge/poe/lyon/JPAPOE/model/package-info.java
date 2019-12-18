@@ -1,0 +1,1 @@
+package com.filerouge.poe.lyon.JPAPOE.model;
